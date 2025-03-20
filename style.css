@@ -89,6 +89,7 @@ p {
     }
 
     .sidebar_bottom{
+        
         /*height: min-content !important;*/
         display:none !important;
     }
